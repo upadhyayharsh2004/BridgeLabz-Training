@@ -2,8 +2,8 @@ using System;
 namespace package{
     internal class AddTwoNumbers{
         public static void Main(string[]args){
-            int a=2;
-            int b=3;
+            int a=Convert.ToInt32(Console.ReadLine());
+            int b=Convert.ToInt32(Console.ReadLine());
             int sum=a+b;
             Console.WriteLine(sum);
         }
