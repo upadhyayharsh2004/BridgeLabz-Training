@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harsh\\Desktop\\CAPEGEMINI-PSEUDOCODE-OM NAMAH SHIVAY\\Review-Dsa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67339108-DFB8-E4A5-314B-7181F258E43F}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\harsh\\desktop\\capegemini-pseudocode-om namah shivay\\review-dsa\\consoleapp8\\listnodemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67339108-DFB8-E4A5-314B-7181F258E43F}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\listnodemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67339108-DFB8-E4A5-314B-7181F258E43F}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\harsh\\desktop\\capegemini-pseudocode-om namah shivay\\review-dsa\\consoleapp8\\customlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67339108-DFB8-E4A5-314B-7181F258E43F}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\customlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67339108-DFB8-E4A5-314B-7181F258E43F}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\harsh\\desktop\\capegemini-pseudocode-om namah shivay\\review-dsa\\consoleapp8\\linkedlistmerge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67339108-DFB8-E4A5-314B-7181F258E43F}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\linkedlistmerge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67339108-DFB8-E4A5-314B-7181F258E43F}|ConsoleApp8\\ConsoleApp8.csproj|c:\\users\\harsh\\desktop\\capegemini-pseudocode-om namah shivay\\review-dsa\\consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67339108-DFB8-E4A5-314B-7181F258E43F}|ConsoleApp8\\ConsoleApp8.csproj|solutionrelative:consoleapp8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\Desktop\\CAPEGEMINI-PSEUDOCODE-OM NAMAH SHIVAY\\Review-Dsa\\ConsoleApp8\\CustomLinkedList.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\CustomLinkedList.cs",
+              "ToolTip": "C:\\Users\\harsh\\Desktop\\CAPEGEMINI-PSEUDOCODE-OM NAMAH SHIVAY\\Review-Dsa\\ConsoleApp8\\CustomLinkedList.cs",
+              "RelativeToolTip": "ConsoleApp8\\CustomLinkedList.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:26:35.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkedListMerge.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\Desktop\\CAPEGEMINI-PSEUDOCODE-OM NAMAH SHIVAY\\Review-Dsa\\ConsoleApp8\\LinkedListMerge.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\LinkedListMerge.cs",
+              "ToolTip": "C:\\Users\\harsh\\Desktop\\CAPEGEMINI-PSEUDOCODE-OM NAMAH SHIVAY\\Review-Dsa\\ConsoleApp8\\LinkedListMerge.cs",
+              "RelativeToolTip": "ConsoleApp8\\LinkedListMerge.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:24:37.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListNodeMain.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\Desktop\\CAPEGEMINI-PSEUDOCODE-OM NAMAH SHIVAY\\Review-Dsa\\ConsoleApp8\\ListNodeMain.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\ListNodeMain.cs",
+              "ToolTip": "C:\\Users\\harsh\\Desktop\\CAPEGEMINI-PSEUDOCODE-OM NAMAH SHIVAY\\Review-Dsa\\ConsoleApp8\\ListNodeMain.cs",
+              "RelativeToolTip": "ConsoleApp8\\ListNodeMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:21:28.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\Desktop\\CAPEGEMINI-PSEUDOCODE-OM NAMAH SHIVAY\\Review-Dsa\\ConsoleApp8\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp8\\Program.cs",
+              "ToolTip": "C:\\Users\\harsh\\Desktop\\CAPEGEMINI-PSEUDOCODE-OM NAMAH SHIVAY\\Review-Dsa\\ConsoleApp8\\Program.cs",
+              "RelativeToolTip": "ConsoleApp8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:12:15.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
